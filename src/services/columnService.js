@@ -1,4 +1,3 @@
-import { get } from 'lodash'
 import { columnModel } from '~/models/columnModel'
 import { boardModel } from '~/models/boardModel'
 import { cardModel } from '~/models/cardModel'
